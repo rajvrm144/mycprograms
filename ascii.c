@@ -10,5 +10,4 @@ main( )
  printf ( "C is WOW" ) ;
  else
  printf( "C is a headache" ) ;
-
 }
